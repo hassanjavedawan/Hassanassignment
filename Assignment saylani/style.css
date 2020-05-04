@@ -1,0 +1,30 @@
+
+.heading{
+    text-align: center;
+    color: blueviolet;
+    text-decoration:underline ;
+}.thanks{
+    text-align: center;
+    color: purple;
+}
+.workingarea{
+    margin:auto ;
+    width: 980px;
+    background-color: darkorchid;
+    color: white;
+
+}
+.firstcol{
+    width:30% ;
+}
+textarea{
+    width: 300px;
+}
+.submit{
+    margin-top: 10px;
+    text-align: center;
+
+}
+.course{
+    margin-left:120px;
+}

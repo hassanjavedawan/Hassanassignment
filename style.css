@@ -1,0 +1,20 @@
+body{
+    background-color: turquoise;
+}
+.icon ul{
+    list-style: none;
+}
+.icon ul li{
+    margin-top: 6px;
+    width: 40px;
+    list-style: none;
+    display: inline-block;
+}
+.icon img{
+    height: 20px;
+    width: 20px; 
+}
+.topbar{
+  
+    text-align: center;
+}
